@@ -1,0 +1,14 @@
+D:\c# study\Lab1 CDM\Lab1 CDM\bin\Debug\Lab1_CDM.exe
+D:\c# study\Lab1 CDM\Lab1 CDM\bin\Debug\Lab1_CDM.pdb
+D:\c# study\Lab1 CDM\Lab1 CDM\obj\Debug\Lab1 CDM.csproj.AssemblyReference.cache
+D:\c# study\Lab1 CDM\Lab1 CDM\obj\Debug\Lab1 CDM.csproj.SuggestedBindingRedirects.cache
+D:\c# study\Lab1 CDM\Lab1 CDM\obj\Debug\Lab1 CDM.csproj.CoreCompileInputs.cache
+D:\c# study\Lab1 CDM\Lab1 CDM\obj\Debug\Lab1_CDM.exe
+D:\c# study\Lab1 CDM\Lab1 CDM\obj\Debug\Lab1_CDM.pdb
+C:\Users\terna\OneDrive\Рабочий стол\Лаба КДМ\Lab1 CDM\Lab1 CDM\bin\Debug\Lab1_CDM.exe
+C:\Users\terna\OneDrive\Рабочий стол\Лаба КДМ\Lab1 CDM\Lab1 CDM\bin\Debug\Lab1_CDM.pdb
+C:\Users\terna\OneDrive\Рабочий стол\Лаба КДМ\Lab1 CDM\Lab1 CDM\obj\Debug\Lab1 CDM.csproj.AssemblyReference.cache
+C:\Users\terna\OneDrive\Рабочий стол\Лаба КДМ\Lab1 CDM\Lab1 CDM\obj\Debug\Lab1 CDM.csproj.SuggestedBindingRedirects.cache
+C:\Users\terna\OneDrive\Рабочий стол\Лаба КДМ\Lab1 CDM\Lab1 CDM\obj\Debug\Lab1 CDM.csproj.CoreCompileInputs.cache
+C:\Users\terna\OneDrive\Рабочий стол\Лаба КДМ\Lab1 CDM\Lab1 CDM\obj\Debug\Lab1_CDM.exe
+C:\Users\terna\OneDrive\Рабочий стол\Лаба КДМ\Lab1 CDM\Lab1 CDM\obj\Debug\Lab1_CDM.pdb
